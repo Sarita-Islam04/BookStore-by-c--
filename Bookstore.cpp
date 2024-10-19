@@ -1,7 +1,4 @@
 
-//Name : Sarita Islam Usmita
-// ID  : 24-56695-1
-
 #include <iostream>
 
 using namespace std;
